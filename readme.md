@@ -13,3 +13,5 @@ Stigma - компьютерная игра в жанре платформера 
 https://github.com/letuwwa
 https://github.com/Danichek
 https://github.com/Elfenlied1993
+
+## Была создана ветка Player

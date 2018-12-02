@@ -97,6 +97,7 @@ public class Player : MonoBehaviour
 
     private void Update()
     {
+
         if (_moveState == MoveState.Jump)
         {
             if (_rigidbody.velocity == Vector2.zero)

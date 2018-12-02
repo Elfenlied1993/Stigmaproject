@@ -164,3 +164,5 @@ E:\Stigma\Stigma_Player\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
 E:\Stigma\Stigma_Player\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 E:\Stigma\Stigma_Player\obj\Debug\Assembly-CSharp.dll
 E:\Stigma\Stigma_Player\obj\Debug\Assembly-CSharp.pdb
+E:\Stigma\Stigma_Player\Temp\bin\Debug\Cinemachine.dll
+E:\Stigma\Stigma_Player\Temp\bin\Debug\com.unity.cinemachine.editor.dll
